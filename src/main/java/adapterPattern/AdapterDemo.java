@@ -1,4 +1,4 @@
-package AdapterPattern;
+package adapterPattern;
 
 /**
  * 适配器模式测试

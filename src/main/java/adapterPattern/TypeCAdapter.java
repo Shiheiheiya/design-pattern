@@ -1,4 +1,4 @@
-package AdapterPattern;
+package adapterPattern;
 
 /**
  * Micro USB 接口适配器

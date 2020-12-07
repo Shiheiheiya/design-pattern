@@ -1,4 +1,4 @@
-package AdapterPattern;
+package adapterPattern;
 
 /**
  * Target接口

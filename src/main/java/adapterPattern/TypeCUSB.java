@@ -1,4 +1,4 @@
-package AdapterPattern;
+package adapterPattern;
 
 /**
  * Type-c USB 接口
