@@ -5,8 +5,8 @@ package observerPattern;
  * 具体的观察者类
  * 用于对生产线发出的“生产出问题产品”的消息做出相应
  */
-public class Work extends Observer {
-    public Work(String name, Subject subject) {
+public class Worker extends Observer {
+    public Worker(String name, Subject subject) {
         super(name, subject);
     }
 
