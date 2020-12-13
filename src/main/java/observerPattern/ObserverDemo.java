@@ -1,5 +1,8 @@
 package observerPattern;
 
+/**
+ * 观察者模式测试类
+ */
 public class ObserverDemo {
     public static void main(String[] args) {
         //生产线作为通知者，发布“生产出现问题部件”消息

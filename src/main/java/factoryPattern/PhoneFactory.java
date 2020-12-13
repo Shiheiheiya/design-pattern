@@ -1,5 +1,8 @@
 package factoryPattern;
 
+/**
+ * 手机工厂类
+ */
 public class PhoneFactory {
     private Phone phone = new Phone();
     public Phone makePhone(){

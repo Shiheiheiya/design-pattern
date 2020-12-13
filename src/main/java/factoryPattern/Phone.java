@@ -1,5 +1,8 @@
 package factoryPattern;
 
+/**
+ * 手机类
+ */
 public class Phone {
     private String cpu;
     private String battery;
